@@ -1,8 +1,9 @@
 # Constructor-Word-Guess Game
 ## Overview:
 ```
-This application is an inline command game of word guess.  This application uses JavaScript constructor functions 
-to create letter and word objects, using the inquirer NPM package to prompt players to guess a letter.  
+This application is an inline command game of word guess.  This application uses JavaScript constructor 
+functions to create letter and word objects, using the inquirer NPM package to prompt players to guess 
+a letter.  
 ```
 ## Technologies Used:
 ```
