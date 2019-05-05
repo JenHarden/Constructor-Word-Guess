@@ -1,8 +1,8 @@
 # Constructor-Word-Guess Game
 ## Overview:
 ```
-This application is an inline command game of word guess.  This application uses JavaScript constructor functions to create 
-letter and word objects, using the inquirer NPM package to prompt players to guess a letter.  
+This application is an inline command game of word guess.  This application uses JavaScript constructor functions 
+to create letter and word objects, using the inquirer NPM package to prompt players to guess a letter.  
 ```
 ## Technologies Used:
 ```
@@ -34,7 +34,8 @@ letter and word objects, using the inquirer NPM package to prompt players to gue
         * But don't worry! You will be asked if you wish to play again, whether you win or lose.
         * If you chose to play again, you will be given another random word and the stats will reset.
         * If you chose not to play again, the application will take you back to the command line.
-        * If you need to exit the game at any time during game play, you can do so by pressing Ctrl + C on your keyboard.
+        * If you need to exit the game at any time during game play, you can do so by pressing Ctrl + C on your 
+            keyboard.
 
 ## Screenshots
 
